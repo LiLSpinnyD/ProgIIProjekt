@@ -10,7 +10,7 @@ public class Main {
     GUI g = new GUI();
     Stage stage = new Stage();
     g.start(stage);
-
+    
 
   }
 }
